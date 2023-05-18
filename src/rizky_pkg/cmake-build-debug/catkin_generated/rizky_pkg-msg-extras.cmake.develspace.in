@@ -1,0 +1,2 @@
+set(rizky_pkg_MESSAGE_FILES "/home/rasyid/Documents/Code/pendidikan_ws/src/rizky_pkg/msg/Test.msg;/home/rasyid/Documents/Code/pendidikan_ws/src/rizky_pkg/msg/subTest.msg")
+set(rizky_pkg_SERVICE_FILES "")
